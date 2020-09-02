@@ -1,16 +1,18 @@
-### Hi there 👋
+Ola 👋, o meu nome é Lickas.
 
-<!--
-**Lickas/Lickas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Um pouco mais sobre mim
 
-Here are some ideas to get you started:
+Desde os 11 anos que eu programo.
+Sou dono do [Oxiria Bot](), que atualmente se encontra em manutencao...
+Ja tive 1 Servidor de GTA RP e Ja Foi Configurador de 10 servidores.
+Nasci em Portugal, tenho 12 anos, vivo bem de saúde, jogo CS:GO e GTA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Redes sociais:
+[Discord]() Lickas#9314
+
+[Youtube](https://youtube.com/c/Lickasツ)
+
+[Twitch](https://twitch.tv/lickasss)
+
+[Instagram](https://www.instagram.com/lickas_/)
+
