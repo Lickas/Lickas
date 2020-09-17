@@ -11,7 +11,7 @@ Ja tive 1 Servidor de GTA RP e Ja Foi Configurador de 10 servidores.
 Nasci em Portugal, tenho 13 anos, vivo bem de saúde, jogo CS:GO e GTA
 
 ## Redes sociais:
-[Discord]() Lickas#9314
+[Discord]() Lickas#0001
 
 [Youtube](https://youtube.com/c/Lickasツ)
 
