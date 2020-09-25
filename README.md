@@ -25,11 +25,6 @@ Nasci em Portugal, tenho 13 anos, vivo bem de saúde, jogo CS:GO e GTA
 </p>
 
 ##  Estátisticas
-<p align="left">
-    <a href="#">
-        <img alt="Follow" src="https://img.shields.io/github/followers/lickas?label=followers&style=social">
-    </a>
-</p>
 
 <p align = "center">
   <a href="https://github.com/lickas/">
@@ -37,9 +32,4 @@ Nasci em Portugal, tenho 13 anos, vivo bem de saúde, jogo CS:GO e GTA
     <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lickas&layout=demo&theme=white">
   </a>
 </p>
-
-<h4 align="center">
-    Perfil de Lickas 🚩
-</h4>
-
 
