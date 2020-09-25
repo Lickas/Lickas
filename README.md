@@ -1,4 +1,4 @@
-Ola 👋, o meu nome é Lickas.
+la 👋, o meu nome é Lickas.
 
 ## Um pouco mais sobre mim
 
@@ -18,4 +18,29 @@ Nasci em Portugal, tenho 13 anos, vivo bem de saúde, jogo CS:GO e GTA
 [Twitch](https://twitch.tv/lickasss)
 
 [Instagram](https://www.instagram.com/lickas_/)
+
+<p align="left">
+    <a href="https://discord.gg/h4PQ9mV">
+        <img alt="O Meu Discord" src="https://img.shields.io/badge/Discord-JR%230007-orange">
+    </a>
+</p>
+
+##  Estátisticas
+<p align="left">
+    <a href="#">
+        <img alt="Follow" src="https://img.shields.io/github/followers/lickas?label=followers&style=social">
+    </a>
+</p>
+
+<p align = "center">
+  <a href="https://github.com/lickas/">
+    <img src = "https://github-readme-stats.vercel.app/api?username=lickas&show_icons=true&theme=white&line_height=27">
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lickas&layout=demo&theme=white">
+  </a>
+</p>
+
+<h4 align="center">
+    Perfil de Lickas 🚩
+</h4>
+
 
