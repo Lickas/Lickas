@@ -1,4 +1,4 @@
-la 👋, o meu nome é Lickas.
+Ola 👋, o meu nome é Lickas.
 
 ## Um pouco mais sobre mim
 
