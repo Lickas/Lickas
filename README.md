@@ -1,5 +1,6 @@
 Ola 👋, o meu nome é Lickas e tenho 13 anos.
 
+-------------------------------------
 ## 👦 Um pouco mais sobre mim:
 
 Desde os 11 anos que eu programo.
@@ -8,11 +9,13 @@ Sei programar Javascript, lua, html e css
 Ja tive 1 Servidor de GTA RP e Ja Foi Configurador de 10 servidores.
 Nasci em Portugal, tenho 13 anos, vivo bem de saúde, jogo CS:GO e GTA.
 
+-------------------------------------
 ## 📁 Os Meus Progetos:
 
 [Oxiria Bot](https://discord.gg/h4PQ9mV) - Um Bot De Discord Focado Em Diversao e Fivem.
-[Oxiria RolePlay] - Em Breve.
+[Oxiria RolePlay]() - Em Breve.
 
+-------------------------------------
 ## 📱 Redes sociais:
 
 [Youtube](https://youtube.com/c/Lickasツ)
@@ -21,11 +24,13 @@ Nasci em Portugal, tenho 13 anos, vivo bem de saúde, jogo CS:GO e GTA.
 
 [Instagram](https://www.instagram.com/lickas_/)
 
+-------------------------------------
 ## 🎮 Outros Links:
 
 [Trello Do Oxiria](https://trello.com/b/KoiGb7CM/oxiria-afazeres)
 [Doar](https://www.paypal.com/paypalme/lickas69)
 
+-------------------------------------
 ## 🧰 Estátisticas:
 
 <p align = "center">
