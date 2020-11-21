@@ -13,6 +13,7 @@ Nasci em Portugal, tenho 13 anos, vivo bem de saúde, jogo CS:GO e GTA.
 ## 📁 Os Meus Progetos:
 
 [Oxiria Bot](https://discord.gg/h4PQ9mV) - Um Bot De Discord Focado Em Diversao e Fivem.
+
 [Oxiria RolePlay]() - Em Breve.
 
 -------------------------------------
@@ -28,6 +29,7 @@ Nasci em Portugal, tenho 13 anos, vivo bem de saúde, jogo CS:GO e GTA.
 ## 🎮 Outros Links:
 
 [Trello Do Oxiria](https://trello.com/b/KoiGb7CM/oxiria-afazeres)
+
 [Doar](https://www.paypal.com/paypalme/lickas69)
 
 -------------------------------------
