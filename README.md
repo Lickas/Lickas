@@ -37,8 +37,8 @@ Nasci em Portugal, tenho 13 anos, vivo bem de saúde, jogo CS:GO e GTA.
 
 <p align = "center">
   <a href="https://github.com/lickas/">
-    <img src = "https://github-readme-stats.vercel.app/api?username=lickas&show_icons=true&theme=black&line_height=27">
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lickas&layout=demo&theme=white">
+    <img src = "https://github-readme-stats.vercel.app/api?username=lickas&show_icons=true&theme=white&line_height=27">
+    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lickas&layout=demo&theme=black">
   </a>
 </p>
 
