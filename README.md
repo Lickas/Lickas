@@ -8,6 +8,7 @@ Sou dono do [Oxiria Bot](https://discord.gg/h4PQ9mV)
 Sei programar Javascript, lua, html e css
 Ja tive 1 Servidor de GTA RP e Ja Foi Configurador de 10 servidores.
 Nasci em Portugal, tenho 13 anos, vivo bem de saúde, jogo CS:GO e GTA.
+Neste Momento estou a estudar python
 
 -------------------------------------
 ## 📁 Os Meus Progetos:
