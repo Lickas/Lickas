@@ -15,10 +15,6 @@ Neste Momento estou a estudar python
 
 [Oxiria Bot](https://discord.gg/h4PQ9mV) - Um Bot De Discord Focado Em Diversao e Moderacao.
 
-[Oxiria RolePlay]() - Em Breve.
-
-[Lickas Community]() - Em 2021.
-
 -------------------------------------
 ## 📱 Redes sociais:
 
