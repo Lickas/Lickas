@@ -11,12 +11,12 @@ Nasci em Portugal, tenho 13 anos, vivo bem de saúde, jogo CS:GO e GTA.
 Neste Momento estou a estudar python
 
 -------------------------------------
-## 📁 Os Meus Progetos:
+## 📁 Os Meus Projetos:
 
 [Oxiria Bot](https://discord.gg/h4PQ9mV) - Um Bot De Discord Focado Em Diversao e Moderacao.
 
 -------------------------------------
-## 🤓 Proximos Progetos:
+## 🤓 Proximos Projetos:
 [Oxiria Uteis]()
 
 -------------------------------------
