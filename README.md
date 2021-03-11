@@ -17,7 +17,7 @@ Neste Momento estou a estudar python
 
 -------------------------------------
 ## 🤓 Proximos Projetos:
-[Oxiria Uteis]()
+[Oxiria Uteis](https://github.com/Lickas)
 
 -------------------------------------
 ## 📱 Redes sociais:
