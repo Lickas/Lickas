@@ -13,7 +13,7 @@ Neste Momento estou a estudar python
 -------------------------------------
 ## 📁 Os Meus Projetos:
 
-[Oxiria Bot](https://discord.gg/h4PQ9mV) - Um Bot De Discord Focado Em Diversao e Moderacao.
+[Oxiria Bot](https://oxiria.xyz/discord) - Um Bot De Discord Focado Em Diversao e Moderacao.
 
 -------------------------------------
 ## 🤓 Proximos Projetos:
