@@ -11,29 +11,11 @@ Nasci em Portugal, tenho 13 anos, vivo bem de saúde, jogo CS:GO e GTA.
 Neste Momento estou a estudar python
 
 -------------------------------------
-## 📁 Os Meus Projetos:
 
-[Oxiria Bot](https://oxiria.xyz/discord) - Um Bot De Discord Focado Em Diversao e Moderacao.
+<a href="https://twitter.com/Lickas5"><img src="https://shields.io/twitter/follow/TiaGoiNsaNy?label=Follow" alt="Lickas5" /></a>
+<a href="https://discord.com/users/469537955569205259"><img src="https://img.shields.io/badge/-@Lickas%239903-4169E1?style=flat&labelColor=7289da&logo=discord&logoColor=white" alt="Minha Conta" /></a>
 
--------------------------------------
-## 🤓 Proximos Projetos:
-[Oxiria Uteis](https://github.com/Lickas)
-
--------------------------------------
-## 📱 Redes sociais:
-
-[Youtube](https://youtube.com/c/Lickasツ)
-
-[Twitch](https://twitch.tv/lickasss)
-
-[Instagram](https://www.instagram.com/lickas_/)
-
--------------------------------------
-## 🎮 Outros Links:
-
-[Trello Do Oxiria](https://trello.com/b/KoiGb7CM/oxiria-afazeres)
-
-[Doar](https://www.paypal.com/paypalme/lickas69)
+![](https://discord.c99.nl/widget/theme-1/469537955569205259.png)
 
 -------------------------------------
 ## 🧰 Estátisticas:
