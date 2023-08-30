@@ -21,7 +21,6 @@ I was born in Portugal, I'm 16 years old, I live in good health, I play CS:GO an
 <p align = "center">
   <a href="https://github.com/lickas/">
     <img src = "https://github-readme-stats.vercel.app/api?username=lickas&show_icons=true&theme=react&amp">
-    <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lickas&layout=demo&theme=react&amp">
   </a>
 </p>
 
