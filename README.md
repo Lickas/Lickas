@@ -1,19 +1,19 @@
-Ola 👋, o meu nome é Lickas e tenho 14 anos.
+  Hi 👋, My name is Lickas and I'm 16 years old.
 
 -------------------------------------
-## 👦 Um pouco mais sobre mim:
+## 👦 A little more about me:
 
-Desde os 11 anos que eu programo.
-Sei programar Javascript, lua, html e css
-Ja tive 1 Servidor de GTA RP e Ja Foi Configurador de 10 servidores.
-Nasci em Portugal, tenho 14 anos, vivo bem de saúde, jogo CS:GO e GTA.
+I've been programming since I was 11 years old.
+I know how to program Javascript, lua, html and css
+I already had 1 GTA RP Server and I was already Configurator of 10 servers.
+I was born in Portugal, I'm 16 years old, I live in good health, I play CS:GO and GTA.
 
 -------------------------------------
 
-## 🗣️ Fala Comigo:
+## 🗣️ Talk with me:
 
 <a href="https://discord.com/users/469537955569205259"><img src="https://img.shields.io/badge/-@Lickas%239903-4169E1?style=flat&labelColor=7289da&logo=discord&logoColor=white" alt="Minha Conta" /></a>
-<a href="https://gmail.com/"><a alt="Email">
+[![Gmail Badge](https://img.shields.io/badge/-ttgtlickas@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ttgtlickas@gmail.com)](mailto:ttgtlickas@gmail.com)
 
 -------------------------------------
 ## 🧰 Estátisticas:
