@@ -12,8 +12,8 @@ I was born in Portugal, I'm 16 years old, I live in good health, I play CS:GO an
 
 ## 🗣️ Talk with me:
 
-<a href="https://discord.com/users/469537955569205259"><img src="https://img.shields.io/badge/-@Lickas%239903-4169E1?style=flat&labelColor=7289da&logo=discord&logoColor=white" alt="Minha Conta" /></a>
-[![Gmail Badge](https://img.shields.io/badge/-ttgtlickas@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ttgtlickas@gmail.com)](mailto:ttgtlickas@gmail.com)
+<a href="https://discord.com/users/469537955569205259"><img src="https://img.shields.io/badge/-@Lickasss-4169E1?style=flat&labelColor=7289da&logo=discord&logoColor=white" alt="Minha Conta" /></a>
+<a href="mailto:ttgtlickas@gmail.com"><img src="https://img.shields.io/badge/-ttgtlickas@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ttgtlickas@gmail.com" alt="Minha Conta" /></a>
 
 -------------------------------------
 ## 🧰 Estátisticas:
