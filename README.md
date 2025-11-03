@@ -1,36 +1,43 @@
-  Hi 👋, My name is Lickas and I'm 16 years old.
+# 👋 Olá! Eu sou o Lickas
 
--------------------------------------
-## 👦 A little more about me:
-Hey there! I'm Lickas, a passionate 17-year-old programmer hailing from the beautiful country of Portugal. 🇵🇹
+Sou um jovem programador de 17 anos, apaixonado por tecnologia e desenvolvimento desde os 11 anos. Atualmente, vivo em Portugal 🇵🇹 e estou a trabalhar em vários projetos de programação e web design, sempre à procura de evoluir e aprender mais.
 
-## 🚀 Journey in Programming:
-I embarked on my programming adventure at the age of 11 and haven't looked back since. Over the years, I've honed my skills in various languages, including Javascript, Lua, HTML, and CSS. My journey into the world of coding has been both exhilarating and rewarding.
+---
 
-## 💻 Project Highlights:
-One of my notable achievements includes creating and managing a GTA RP Server, showcasing my ability to bring virtual worlds to life. Additionally, I've served as a Configurator for 10 different servers, contributing my expertise to enhance their functionality and user experience.
+## 🔥 Sobre mim
 
-## 🌐 Web Development Ventures:
-Currently, I'm actively collaborating with companies, bringing their visions to life through the creation of dynamic and impactful websites. From sleek designs to robust functionalities, I thrive on the challenge of delivering solutions that resonate with clients and users alike.
+- 🧠 Comecei a programar aos 11 anos, e desde então já passei por várias linguagens como **JavaScript**, **Lua**, **HTML**, **CSS**, entre outras.
+- 🛠️ Desenvolvo websites e sistemas à medida para empresas e empreendedores.
+- 🎮 Tenho experiência no mundo de **GTA RP**, onde já criei e geri um servidor próprio, além de ter sido configurador em mais de 10 servidores.
+- 🖥️ Adoro transformar ideias em realidade através de código e design funcional.
 
-## 🌐 Global Connections:
-While I call Portugal home, my passion for programming knows no borders. I'm excited about connecting with like-minded individuals from around the globe, collaborating on projects, and pushing the boundaries of what we can create together.
+---
 
-## 🌟 Current Focus:
-I'm currently exploring new technologies and frameworks, constantly seeking ways to elevate my skills. Whether it's building innovative web applications or diving into the latest trends in the programming world, I'm always up for a challenge.
+## 🚀 O que ando a fazer agora
 
-## 📫 Let's Connect:
-If you share a love for coding, technology, or just want to chat about anything interesting, feel free to reach out! My virtual door is always open.
+- 💼 Trabalho como **Web Developer Freelancer**, criando sites responsivos e modernos.
+- 🌱 A explorar novas stacks e frameworks para elevar o nível dos meus projetos (React, TailwindCSS, Node.js, etc.).
+- 🤝 A colaborar com pessoas e empresas que queiram algo mais do que um site comum — soluções com propósito e boa performance.
 
-<a href="https://discord.com/users/469537955569205259"><img src="https://img.shields.io/badge/-@Lickasss-4169E1?style=flat&labelColor=7289da&logo=discord&logoColor=white" alt="Minha Conta" /></a>
-<a href="mailto:ttgtlickas@gmail.com"><img src="https://img.shields.io/badge/-ttgtlickas@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ttgtlickas@gmail.com" alt="Minha Conta" /></a>
+---
 
--------------------------------------
-## 🧰 Estátisticas:
+## 📊 Estatísticas GitHub
 
-<p align = "center">
-  <a href="https://github.com/lickas/">
-    <img src = "https://github-readme-stats.vercel.app/api?username=lickas&show_icons=true&theme=react&amp">
+<p align="center">
+  <a href="https://github.com/lickas">
+    <img src="https://github-readme-stats.vercel.app/api?username=lickas&show_icons=true&theme=tokyonight" alt="GitHub Stats">
   </a>
 </p>
 
+---
+
+## 📫 Contacta-me!
+
+Se quiseres trocar ideias, colaborar num projeto ou simplesmente conversar sobre tecnologia, estás mais do que à vontade para me contactar:
+
+<a href="https://discord.com/users/469537955569205259"><img src="https://img.shields.io/badge/-@Lickasss-4169E1?style=flat&labelColor=7289da&logo=discord&logoColor=white" alt="Discord" /></a>
+<a href="mailto:ttgtlickas@gmail.com"><img src="https://img.shields.io/badge/-ttgtlickas@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Email" /></a>
+
+---
+
+> 💡 _“A melhor forma de prever o futuro é criá-lo”_ — e é isso que estou a fazer, uma linha de código de cada vez.
