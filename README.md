@@ -35,10 +35,6 @@ As tecnologias que utilizo para criar sites, gerir infraestruturas e produzir co
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
-**Multimédia & Criação:** *(Exemplo: edita conforme o que usas)*
-![Adobe Premiere Pro](https://img.shields.io/badge/Premiere_Pro-EA77FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=for-the-badge&logo=adobe-after-effects&logoColor=white)
-
 ---
 
 ## 📫 Onde me encontrar
