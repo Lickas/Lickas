@@ -1,96 +1,63 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00d2ff&height=250&section=header&text=Lickas&fontSize=90&animation=fadeIn&fontAlignY=38" width="100%" />
-
-  <h3>🚀 Future Telecommunications & Informatics Engineer @ UMinho</h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D2FF&center=true&vCenter=true&width=600&lines=Olá,+eu+sou+o+Leandro+(Lickas);Web+Developer+Freelance;Estudante+de+Engenharia+@+UMinho;Transformo+ideias+em+código" alt="Typing SVG" />
 
   <p align="center">
-    <a href="https://leandroxws.dev"><strong>Conhece o meu Portfólio »</strong></a>
+    Desenvolvedor Web & Estudante de Engenharia de Telecomunicações e Informática
     <br />
     <br />
-    <a href="#-sobre-mim">Sobre Mim</a> •
-    <a href="#-o-que-eu-faço">O que faço</a> •
-    <a href="#-tech-stack">Skills</a> •
-    <a href="#-estatísticas">Métricas</a>
+    <a href="https://leandroxws.dev"><strong>🌐 leandroxws.dev</strong></a>
   </p>
 </div>
 
 ---
 
-## 👋 Olá, eu sou o Leandro (aka Lickas)!
+## 👨‍💻 Sobre Mim
 
-Transformo café em código eficiente desde os meus 11 anos. Hoje, aos 18, estou a trilhar o caminho académico em **Engenharia de Telecomunicações e Informática na Universidade do Minho**, enquanto construo soluções digitais de alto impacto para o mercado corporativo.
+Comecei a escrever as minhas primeiras linhas de código aos 11 anos. Hoje, com 18, divido o meu tempo entre a **Universidade do Minho**, onde construo a minha base teórica em Engenharia, e o mercado de trabalho real, onde crio soluções digitais para empresas.
 
-### ⚡ O que me torna único?
-- **🎓 Base Sólida & Académica:** Unindo o rigor e a lógica da engenharia da UMinho com uma mentalidade de resolução de problemas que cultivo desde criança.
-- **💻 Ecossistemas Web Completos:** Foco atual no desenvolvimento de websites à medida e aplicações responsivas que resolvem problemas reais de empresas e empreendedores.
-- **💼 Visão 360º (Código + Negócio):** Não apenas escrevo código; faço a **gestão de redes sociais** e estratégia digital. Entendo que um bom site precisa de uma boa estratégia de marca por trás.
-
----
-
-## 🛠️ O Meu Arsenal Tecnológico
-
-<table align="center">
-  <tr>
-    <td align="center" width="25%">
-      <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind" /><br />
-      <b>Frontend Design</b>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://skillicons.dev/icons?i=nodejs,python,express,mongodb" /><br />
-      <b>Backend & Logic</b>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://skillicons.dev/icons?i=figma,ps,ae" /><br />
-      <b>Design & Social Media</b>
-    </td>
-    <td align="center" width="25%">
-      <img src="https://skillicons.dev/icons?i=git,docker,linux,cpp" /><br />
-      <b>Engineering Tools</b>
-    </td>
-  </tr>
-</table>
+- 🎯 **O que eu faço:** Desenvolvo websites modernos, escaláveis e à medida, focados na performance e na experiência do utilizador.
+- 📈 **Visão de Negócio:** Além do código, faço a gestão estratégica de redes sociais (SMM) para marcas, unindo a vertente técnica à conversão e marketing.
+- 🎓 **Background Académico:** A estudar redes, arquitetura de sistemas e telecomunicações na UMinho.
 
 ---
 
-## 🚀 No meu Radar (Now)
+## 🛠️ Tecnologias e Ferramentas
 
-- 📡 **Licenciatura na UMinho:** Aprofundar redes, sinais e arquitetura de sistemas.
-- 🌐 **Web Design Freelance:** Criar produtos digitais modernos, com alta performance e foco na conversão.
-- 📱 **SMM (Social Media Management):** Escalar a presença digital de empresas através de gestão estratégica.
+Trabalho com as melhores tecnologias do mercado para garantir que cada projeto é rápido, seguro e fácil de manter.
 
----
+**Frontend & Design:** ![React](https://img.shields.io/badge/-React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
-## 📊 Estatísticas em Tempo Real
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lickas&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lickas&layout=compact&theme=tokyonight&hide_border=true" height="180em" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lickas&theme=tokyonight&no-bg=true&margin-w=15" width="100%" />
-</p>
+**Backend & Engenharia:** ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
-## 📫 Vamos criar o futuro juntos?
-
-Estou sempre aberto a colaborações em projetos de engenharia ou desenvolvimento web.
+## 📊 O Meu GitHub em Números
 
 <div align="center">
-  <a href="https://leandroxws.dev">
-    <img src="https://img.shields.io/badge/Portfólio-00d2ff?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="https://discord.com/users/469537955569205259">
-    <img src="https://img.shields.io/badge/Discord-7289da?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="mailto:ttgtlickas@gmail.com">
-    <img src="https://img.shields.io/badge/Email-c14438?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=lickas&show_icons=true&theme=transparent&hide_border=true&title_color=00D2FF&icon_color=00D2FF&text_color=c9d1d9" height="160em" alt="Estatísticas do Lickas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lickas&layout=compact&theme=transparent&hide_border=true&title_color=00D2FF&text_color=c9d1d9" height="160em" alt="Linguagens mais usadas" />
 </div>
 
 ---
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=A%20melhor%20forma%20de%20prever%20o%20futuro%20é%20criá-lo." />
-</p>
+## 📫 Vamos trabalhar juntos?
+
+Quer seja para desenvolver uma plataforma do zero, melhorar a presença digital do teu negócio ou falar sobre tecnologia, o meu inbox está aberto.
+
+<div align="center">
+  <a href="https://leandroxws.dev">
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=googlechrome&logoColor=00D2FF" alt="Portfólio" />
+  </a>
+  <a href="https://discord.com/users/469537955569205259">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
+  <a href="mailto:ttgtlickas@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
